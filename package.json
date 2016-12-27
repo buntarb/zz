@@ -1,5 +1,5 @@
 {
-	"name": "zz",
+	"name": "imazzine-developer-lib",
 	"version": "20161227.0.0",
 	"description": "imazzine-developer-lib package",
 	"author": {
@@ -14,6 +14,15 @@
 	},
 	"dependencies": {
 
-	    "imazzine-developer-kit": ""
+	    "imazzine-developer-kit": "",
+	    "zz.events": "",
+	    "zz.environment": "",
+	    "zz.factories": "",
+	    "zz.services": "",
+	    "zz.views": "",
+	    "zz.models": "",
+	    "zz.controllers": "",
+	    "zz.app": "",
+	    "zz.tests": ""
 	}
 }
